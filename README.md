@@ -1,5 +1,7 @@
 ## Compilador
 
+Junção dos trabalhos práticos da disciplina de Compiladores onde o objetivo final é construir um compilador que reconheça a linguagem *Csmall*.
+
 <br>
 
 ### Analisador Léxico
