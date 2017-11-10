@@ -11,6 +11,6 @@ python3 analisador_lexico.py
 
 <br><br>
 
-*Frederico Resende*<br/>
-*Disciplina de Redes de Computadores*<br/>
-*Prof. Flávio Luiz Schiavoni*
+*Frederico Resende e Diego Freire*<br/>
+*Disciplina de Compiladores*<br/>
+*Prof. Alexandre Piggozo*
