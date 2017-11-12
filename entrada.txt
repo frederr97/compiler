@@ -6,14 +6,4 @@ int i, inc, j;
 i = 0;
 inc = 2;
 read j;
-while (i <= j <><=>= //f45 2.4 && || & |)
-{
-i = i + inc;
-a = a*i;
-}
-if (a > 10.0)
-{
-print(a + i);
-print(x==&&||<<=>>=y=!=z+-*b10.0c 12.345);
-}
 }
